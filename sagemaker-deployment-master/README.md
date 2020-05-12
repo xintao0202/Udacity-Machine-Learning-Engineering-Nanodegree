@@ -8,7 +8,7 @@ This repository contains code and associated files for deploying ML models using
 
 ### Tutorials
 * [Boston Housing (Batch Transform) - High Level](https://github.com/udacity/sagemaker-deployment/tree/master/Tutorials/Boston%20Housing%20-%20XGBoost%20(Batch%20Transform)%20-%20High%20Level.ipynb) 
-    - [Video: Getting the Data Ready](https://youtu.be/78y5cTR-JxM)  [Video: Training the Model; ](https://youtu.be/rqYlkCTLmIY) [Video: Testing the Model](https://youtu.be/CZRKuS_qYtg)
+    - [Video: Getting the Data Ready; ](https://youtu.be/78y5cTR-JxM)  [Video: Training the Model; ](https://youtu.be/rqYlkCTLmIY) [Video: Testing the Model](https://youtu.be/CZRKuS_qYtg)
     - is the simplest notebook which introduces you to the SageMaker ecosystem and how everything works together. The data used is already clean and tabular so that no additional processing needs to be done. Uses the Batch Transform method to test the fit model.
 * [Boston Housing (Batch Transform) - Low Level](https://github.com/udacity/sagemaker-deployment/tree/master/Tutorials/Boston%20Housing%20-%20XGBoost%20(Batch%20Transform)%20-%20Low%20Level.ipynb) 
     - [Video: Data Preparation](https://youtu.be/TA-Ms7djeL0)  [Video: Creating a Training Job; ](https://youtu.be/1CIbWNUSZXo) [Video: Building a Model; ](https://youtu.be/JJyVsmcV2M4)   [Video: Creating a Batch Transform Job](https://youtu.be/JwPJMYRl3nw)
