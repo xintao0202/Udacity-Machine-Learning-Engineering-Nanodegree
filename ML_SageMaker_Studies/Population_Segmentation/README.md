@@ -6,15 +6,15 @@
 
 3. [PCS Estimator & Training](https://youtu.be/HGEqgi2MKcU)
 
-  [PCA MOdel Attributes & Varance](https://youtu.be/dumVafbS7pk)
+    [PCA MOdel Attributes & Varance](https://youtu.be/dumVafbS7pk)
   
-  [Solution: Variance](https://youtu.be/C-BRBjxlUuE)
+    [Solution: Variance](https://youtu.be/C-BRBjxlUuE)
   
-  [Component Makeup](https://youtu.be/fiSr_Xjm3qI)
+    [Component Makeup](https://youtu.be/fiSr_Xjm3qI)
   
 4. [PCA Deployment & Data Transformation](https://youtu.be/qsnpHHuwbbA)
 
-  [Solution: Creating Transformed Data](https://youtu.be/4l2UHyyVV7Y)
+    [Solution: Creating Transformed Data](https://youtu.be/4l2UHyyVV7Y)
   
 5. [K-means Predictor](https://youtu.be/0xx2p2vnCg0)
 
